@@ -1,0 +1,1 @@
+(self["webpackChunkai_prophet_front"]=self["webpackChunkai_prophet_front"]||[]).push([[3808],{95308:function(r,e,n){"use strict";n.r(e);var t=n(67294),a=n(85893),u=t.Fragment,c=function(r){var e=r.children;return(0,a.jsx)(u,{children:e})};e["default"]=c}}]);
